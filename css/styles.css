@@ -5,3 +5,12 @@
 .rating-icon {
     width: 20px;
 }
+
+.btn-bz-danger {
+    background-color: rgb(231, 164, 164);
+    color: white;
+}
+
+/* .w-25 {
+    width: 75% !important;
+} */
